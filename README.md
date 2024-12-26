@@ -8,4 +8,4 @@
 **Install required libraries:**
 
 ```bash
-pip install opencv-python matplotlib pillow
+pip install numpy scipy scikit-image scikit-learn pillow SimpleITK opencv-python matplotlib
